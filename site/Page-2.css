@@ -1,3 +1,10 @@
+html,body{
+
+  background-image: url("images/back.png");
+}
+
+
+
 .u-section-1 .u-sheet-1 {
   min-height: 1014px;
 }
